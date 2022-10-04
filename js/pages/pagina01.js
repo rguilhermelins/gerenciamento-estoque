@@ -1,4 +1,4 @@
-function pagina01 () {
+export default function pagina01 () {
 
     return`
     

@@ -1,0 +1,50 @@
+{
+  "filiais": [
+    {
+      "id": 1,
+      "nome": "ale importados"
+    },
+    {
+      "id": 2,
+      "nome": "ale variedades"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "informática",
+      "descricao": "produtos de informática",
+      "foto": "encurtador.com.br/abgM9"
+    },
+    {
+      "id": 2,
+      "nome": "informática",
+      "descricao": "produtos de informática",
+      "foto": "encurtador.com.br/abgM9"
+    },
+    {
+      "id": 3,
+      "nome": "informática",
+      "descricao": "produtos de informática",
+      "foto": "encurtador.com.br/abgM9"
+    },
+    {
+      "id": 4,
+      "nome": "informática",
+      "descricao": "produtos de informática",
+      "foto": "encurtador.com.br/abgM9"
+    },
+    {
+      "nome": "eletrodomestico",
+      "descrição": "eletro",
+      "foto": "",
+      "id": 5
+    },
+    {
+      "nome": "computador",
+      "descricao": "eletro",
+      "foto": "",
+      "id": 6
+    }
+  ]
+}
